@@ -14,6 +14,6 @@ def rock_paper_scissors():
     else:
         print("Invalid inputs")
 
+
 if __name__ == '__main__':
     rock_paper_scissors()
-
